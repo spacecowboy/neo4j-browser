@@ -6,7 +6,8 @@
     "node": ">=0.10.2"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "grunt server"
   },
   "devDependencies": {
     "bower": "^1.4.1",
